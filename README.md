@@ -6,7 +6,7 @@
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 
-A content-based recommender system that recommends movies similar to the movie based on history of user.
+A content-based recommender system that recommends movies based on their past viewing history, preferences and ratings.
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API.
 
